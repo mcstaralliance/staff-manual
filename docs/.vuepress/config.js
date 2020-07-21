@@ -1,9 +1,11 @@
 module.exports = {
-  title: 'Hello VuePress',
+  title: '星域世界管理员手册',
   description: 'Just playing around',
   themeConfig: {
     sidebar: [
       ['/', '欢迎页'],
+      ['/common-commands', '常见指令'],
+      ['/some-examples', '常见案例'],
     ],
     lastUpdated: '最后更新 ',
     repo: 'LDS-XiaoYe/myNetlify',
