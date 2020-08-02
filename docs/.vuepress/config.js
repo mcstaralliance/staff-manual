@@ -6,6 +6,7 @@ module.exports = {
       ['/', '欢迎页'],
       ['/common-commands', '常见指令'],
       ['/some-examples', '常见案例'],
+      ['/useful-commands', '指令们'],
     ],
     lastUpdated: '最后更新 ',
     repo: 'LDS-XiaoYe/myNetlify',
