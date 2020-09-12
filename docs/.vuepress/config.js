@@ -10,7 +10,7 @@ module.exports = {
       ['/useful-commands', 'CMI 指令'],
     ],
     lastUpdated: '最后更新 ',
-    repo: 'LDS-XiaoYe/myNetlify',
+    repo: 'mcstaralliance/staff-manual',
     docsBranch: 'master',
     docsDir: 'docs',
     editLinks: true,
