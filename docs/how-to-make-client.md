@@ -16,7 +16,7 @@
 
 ## 正文部分
 
-1. 首先到 [HMCL 官网](https://hmcl.huangyuhui.net/download) 下载启动器。或从现有客户端复制一份
+1. 首先到 [HMCL 官网](https://hmcl.huangyuhui.net/download) 下载启动器，或从现有客户端复制一份。
 
    > **不要从非官方渠道下载启动器。**
 
