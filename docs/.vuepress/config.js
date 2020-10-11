@@ -8,6 +8,14 @@ module.exports = {
       ['/some-examples', '常见案例'],
       ['/how-to-make-client', '制作客户端教程'],
       ['/useful-commands', 'CMI 指令'],
+      {
+          title: '中文文案排版与 Markdown',
+          collapsable: true,
+          children: [
+              '/text/chinese-copywriting-guidelines.html',
+              '/text/Markdown.html'
+            ]
+      }
     ],
     lastUpdated: '最后更新 ',
     repo: 'mcstaralliance/staff-manual',
