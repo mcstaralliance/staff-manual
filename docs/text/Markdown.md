@@ -34,7 +34,7 @@ Markdown 是一种轻量级标记语言，于 2004 年由 John Gruber 创造。
 
 制作完成以后，以邮件附件形式发送至 `admin@mcstaralliance.com`，完成的越早越好。
 
-::: warnning
+::: warning
 
 本次不符合要求的作业需要重做。
 
