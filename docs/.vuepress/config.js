@@ -8,6 +8,7 @@ module.exports = {
       ['/some-examples', '常见案例'],
       ['/how-to-make-client', '制作客户端教程'],
       ['/useful-commands', 'CMI 指令'],
+      ['/recipes-modify', '魔改指导'],
       {
           title: '中文文案排版与 Markdown',
           collapsable: true,
